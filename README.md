@@ -2,6 +2,8 @@
 
 This repository hosts course materials used for a 13-week course "CIS6930 Topics in Computing for Data Science" as part of [Graduate Program in Applied Data Science](https://www.ncf.edu/academics/graduate-program/) at [New College of Florida](https://www.ncf.edu/).
 
+This course requires the student to have basic knowledge in Machine Learning and programming skills in Python. For those who are new to Machine Learning and/or Python programming, refer to [this repository](https://github.com/suhara/mlnlp-isp2020), which hosts the course materials for a 3-day seminar on Machine Learning and NLP. 
+
 
 ## Course Description
 
